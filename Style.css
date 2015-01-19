@@ -1,0 +1,42 @@
+table.table1
+{	border-collapse: collapse; border: solid thin;
+}
+
+table.table1 th
+{border: solid thin; height: 1.4em; width: 1.4em; text-align: center;
+}
+
+table.table1 td
+{	border: solid thin; height: 1.4em; width: 1.4em; text-align: center; padding 0; width: 100px;
+}
+
+table.table2
+{	border-collapse: collapse; border: solid thin;
+}
+
+table.table2 th
+{	border: solid thin; height: 1.4em; width: 1.4em; text-align: center; padding 0; width: 203px;
+}
+
+table.table2 td
+{	border: solid thin; height: 1.4em; width: 1.4em; text-align: center; padding 0; width: 410px; font-weight: bold;
+}
+
+#outer-content
+{	background-color:pink; margin-right:auto; width: 75%;	
+}
+
+#inner-content
+{	background-color:blue; margin-right:auto; margin-left:auto; width: 75%;	
+}
+
+#Spider-man  {
+  float: left;
+}
+
+div.purple:hover
+{	background-color:purple;
+}
+
+div.selected:hover
+{	background-color:white;
